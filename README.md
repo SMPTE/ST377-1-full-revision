@@ -1,4 +1,4 @@
-# ST377-1-2019-revision
+# ST377-1-full-revision
 
 This GitHub project exists to track bugs and issues in the full revision of SMPTE ST 377-1:2019. Contribution of issues to this project is restricted by the rules in the [SMPTE Operations Manual](https://www.smpte.org/sites/default/files/SMPTE%20Standards%20OM%20v3.1.pdf).
 
